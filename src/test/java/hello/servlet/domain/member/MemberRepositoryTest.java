@@ -1,4 +1,4 @@
-package hello.sevlet.domain.member;
+package hello.servlet.domain.member;
 
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.AfterEach;
